@@ -98,7 +98,7 @@ If you generate a perfectly grammatical "Fake News" article using an LLM (like *
 * [Matplotlib](https://matplotlib.org/) & [Seaborn](https://seaborn.pydata.org/) - Data Visualization
 
 ## 👨‍💻 Author
-**Your Name/Username**
-* Portfolio: [Link Here](#)
-* LinkedIn: [Link Here](#)
-* GitHub: [Link Here](#)
+**codemerohan**
+
+* LinkedIn: [www.linkedin.com/in/rohan-verma-78213b33b](#)
+* GitHub: [https://github.com/codemerohan](#)
