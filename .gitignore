@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Datasets (We don't want to push massive 50MB+ datasets to GitHub)
+# Keep the README instruction though
+dataset/*.csv
+
+# Trained Models (These can exceed GitHub's 100MB limit and are better suited for Git LFS or HuggingFace)
+# If you want to push models, remove these lines or use Git LFS
+model/*.pkl
+model/*.h5
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
